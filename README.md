@@ -39,3 +39,4 @@ Another project description goes here.
 - Twitter: [vatssshivam](https://twitter.com/Vatssshivam)
 
 Feel free to explore my projects and reach out. Happy coding! 🚀
+[![](https://visitcount.itsvg.in/api?id=vats-shivam&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
